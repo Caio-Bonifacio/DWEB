@@ -1,0 +1,58 @@
+/* Configurações gerais */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: #222;
+    background-color: #5aa9d0;
+
+    line-height: 1.7;
+}
+
+section {
+    max-width: 900px;
+    margin: 0 auto 40px auto;
+    padding: 0 25px;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+section p {
+    line-height: 1.7;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+.section-title {
+    color: #00244a;
+
+    font-size: 30px;
+    font-weight: 700;
+
+    margin-top: 50px;
+    margin-bottom: 25px;
+
+    padding-bottom: 10px;
+
+    border-bottom: 2px solid #d7e2ee;
+}
+
+section ol {
+    line-height: 1.7;
+}
+
+section ol ol {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+}
